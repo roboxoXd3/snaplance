@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61009844968",
+    "project_id": "snaplance",
+    "storage_bucket": "snaplance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61009844968:android:7e3f176c52b6822302475d",
+        "android_client_info": {
+          "package_name": "com.example.snaplance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61009844968-7r2ltl5ccq5f8ltmgd2cmt5hpcvf46ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOtIWN-m_swKO5It1tnCCOkZQXbx9hCN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61009844968-7r2ltl5ccq5f8ltmgd2cmt5hpcvf46ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
